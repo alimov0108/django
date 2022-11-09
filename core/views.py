@@ -5,6 +5,3 @@ def sabzavotlar(request):
 
 def mevalar(request):
     return render(request, 'kartoshka.html')
-
-def pistalar(request):
-    return render(request, 'kartoshka.html')
